@@ -6,8 +6,8 @@ This weather application allows users to search for the current weather conditio
 * responsive design for desktop and mobile devices.
 * Shows the temprature,humidity,and feels-like temprature.
 
-#Built with
-. HTML
-. CSS
-. JAVASCRIPT
-. Openweathermap API
+# Built with
+* HTML
+* CSS
+* JAVASCRIPT
+* openweathermap.org API
